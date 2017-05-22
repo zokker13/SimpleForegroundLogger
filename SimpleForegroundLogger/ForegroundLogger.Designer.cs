@@ -68,7 +68,7 @@
             this.msiKillMe});
             this.msMainStrip.Name = "msMainStrip";
             this.msMainStrip.ShowImageMargin = false;
-            this.msMainStrip.Size = new System.Drawing.Size(136, 104);
+            this.msMainStrip.Size = new System.Drawing.Size(136, 126);
             // 
             // msiShow
             // 
@@ -105,7 +105,7 @@
             // 
             this.msiKillMe.Name = "msiKillMe";
             this.msiKillMe.Size = new System.Drawing.Size(135, 22);
-            this.msiKillMe.Text = "Kill Me, Senpaii";
+            this.msiKillMe.Text = "Kill Me";
             this.msiKillMe.Click += new System.EventHandler(this.msiKillMe_Click);
             // 
             // pcbKillMe
